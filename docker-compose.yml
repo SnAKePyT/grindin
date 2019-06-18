@@ -18,6 +18,7 @@ services:
     spring:
       external: true
 
+
   db:
     image: redis
     hostname: db
